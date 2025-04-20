@@ -32,7 +32,7 @@ Personalize o estilo no style.css se quiser mudar cores, fontes ou layout.
 
 Abra o index.html no navegador para visualizar a página.
 
-🌐 Hospedagem no GitHub Pages
+## 🌐 Hospedagem no GitHub Pages
 Você pode hospedar gratuitamente essa página:
 
 Vá até as Configurações do repositório.
@@ -43,8 +43,8 @@ Selecione a branch main e a pasta raiz (/).
 
 O GitHub vai gerar um link para acessar seu site.
 
-📚 Créditos
+## 📚 Créditos
 Este projeto foi baseado em um desafio do programa Discover da Rocketseat e adaptado por mim com os meus próprios links e ajustes de estilo.
 
-👤 Autor
+## 👤 Autor
 Desenvolvido e adaptado por Luiz Gabriel.
