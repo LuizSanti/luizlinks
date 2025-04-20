@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # # LuizLinks
+=======
+# LuizLinks
+>>>>>>> a8e06bfc68ec2ddcb3a8f399cb4cab7bced34137
 
 Uma página pessoal simples para centralizar e compartilhar meus links mais importantes — redes sociais, portfólio, projetos e outros.&#8203;:contentReference[oaicite:4]{index=4}
 
