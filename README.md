@@ -1,29 +1,50 @@
-<<<<<<< HEAD
-# # LuizLinks
-=======
 # LuizLinks
->>>>>>> a8e06bfc68ec2ddcb3a8f399cb4cab7bced34137
 
-Uma página pessoal simples para centralizar e compartilhar meus links mais importantes — redes sociais, portfólio, projetos e outros.&#8203;:contentReference[oaicite:4]{index=4}
+**LuizLinks** é uma adaptação pessoal feita a partir de um projeto desenvolvido durante o programa **Discover da Rocketseat**. A ideia é reunir, de forma simples e direta, os meus principais links em uma única página. Apesar de ter sido feito com foco no meu uso, o código é totalmente reutilizável e pode ser facilmente adaptado por qualquer pessoa que queira criar sua própria página de links estilo “link na bio”.
 
 ## ✨ Funcionalidades
 
-- :contentReference[oaicite:5]{index=5}
-- :contentReference[oaicite:6]{index=6}
-- :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
+- Layout responsivo e minimalista  
+- Organização prática de links pessoais, sociais ou profissionais  
+- Fácil de personalizar (código limpo e direto)  
+- Pode ser usado como página de perfil ou link central em redes sociais  
 
-## 🚀 Tecnologias utilizadas
+## 🛠 Tecnologias
 
-- HTML
-- CSS
-- :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
+- HTML5  
+- CSS3  
+- JavaScript  
 
 ## 📸 Prévia
 
-![&#8203;:contentReference[oaicite:11]{index=11}](assets/preview.png)&#8203;:contentReference[oaicite:12]{index=12}
 
-## 🛠️ Como usar
+![Preview do LuizLinks](./assets/preview.png)
 
-1. :contentReference[oaicite:13]{index=13}
+## 🚀 Como usar
+
+1. Clone este repositório:
+
    ```bash
-   git clone https://github.com/LuizSanti/luizlinks.gig
+   git clone https://github.com/LuizSanti/luizlinks.git
+Edite o arquivo index.html com seus próprios links, textos e informações.
+
+Personalize o estilo no style.css se quiser mudar cores, fontes ou layout.
+
+Abra o index.html no navegador para visualizar a página.
+
+🌐 Hospedagem no GitHub Pages
+Você pode hospedar gratuitamente essa página:
+
+Vá até as Configurações do repositório.
+
+Acesse a aba Pages.
+
+Selecione a branch main e a pasta raiz (/).
+
+O GitHub vai gerar um link para acessar seu site.
+
+📚 Créditos
+Este projeto foi baseado em um desafio do programa Discover da Rocketseat e adaptado por mim com os meus próprios links e ajustes de estilo.
+
+👤 Autor
+Desenvolvido e adaptado por Luiz Gabriel.
