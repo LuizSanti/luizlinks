@@ -7,7 +7,18 @@
 - Layout responsivo e minimalista  
 - Organização prática de links pessoais, sociais ou profissionais  
 - Fácil de personalizar (código limpo e direto)  
-- Pode ser usado como página de perfil ou link central em redes sociais  
+- Pode ser usado como página de perfil ou link central em redes sociais
+- Alternância entre modo claro e escuro com um clique (light/dark mode)
+
+
+## 🌓 Modo Claro e Escuro
+O site conta com um botão para alternar entre os temas claro e escuro, proporcionando uma experiência de navegação mais agradável em diferentes ambientes de luz.
+A funcionalidade é implementada com uma simples função em JavaScript que alterna a classe light no elemento <html>, permitindo que o CSS aplique os estilos correspondentes a cada tema.
+
+function toggleMode() {
+  const html = document.documentElement
+  html.classList.toggle("light")
+}
 
 ## 🛠 Tecnologias
 
